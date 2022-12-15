@@ -1,2 +1,26 @@
 # blogs
-Everybody owns a blog, I'm just having a blog list.
+
+* https://han0110.github.io
+* [ying tong 映彤 – no flex be kind](https://therealyingtong.github.io/) 
+* [Vitalik Buterin’s website](https://vitalik.ca/) 
+* [Posts - Kendrick](https://kndrck.co/posts/) 
+* [Presentations and Articles](https://kohweijie.com/articles/) 
+* [Blog by Max](https://www.maxgrok.com/) 
+* [Anish Agnihotri](https://anishagnihotri.com/) 
+* [Libevm](https://www.libevm.com/) 
+* [Nothing is really attained – Chao](https://chaosma.github.io/) 
+* [audreyt.org](https://audreyt.org/) 
+* [Nichanan Kesonpat](https://www.nichanank.com/) 
+* [hsiaowei](https://notes.ethereum.org/@hww) 
+* [peiyuan](https://liaopeiyuan.com/) 
+* [Profile 經歷與介紹 - MUKI space*](https://muki.tw/profile/) 
+* [Yun Chen – Medium](https://aelcenganda.medium.com/) 
+* [Chi-Hao, Lu | Blockchain Developer](https://chihaolu.me/) 
+* [yuetloo](https://yuetloo.com/) 
+* [寫過 WordPress 與手帳書籍的前端工程師 - MUKI space*](https://muki.tw/) 
+* [KAYSHIH](https://kayshih.com/) 
+* [Daily Oops!](https://hackmd.io/@DailyOops) 
+* [Memo’s Blog](https://blog.epoch.tw/) 
+* [ChatGPT 如何協助人類? 應用 AI 與科幻哲思 - ProgramMur - 程序猿碎念](https://blog.androchen.tw/chatgpt-applied-ai-sci-fi-reflection/#gsc.tab=0) 
+* [H.-H. Peng (Hsins) - HackMD](https://hackmd.io/@Hsins/me#) 
+* [Summer。桑莫。夏天](https://www.cythilya.tw/)
